@@ -1,4 +1,4 @@
-# AIVIS TTS Client
+# Aivis TTS Client
 
 FiveM などのゲームで **マイクが使えない／使いたくない** 場面でも、音声合成 (TTS) でVCが使える Windows専用 アプリケーションです。
 
@@ -33,7 +33,7 @@ FiveM などのゲームで **マイクが使えない／使いたくない** �
 3. インストール完了後、インストール先に作成される `AivisSpeech-Engine` フォルダ内の `run.exe` をダブルクリックして `AivisSpeach-Engine` を起動
    - 例: `C:\Users\<ユーザー名>\AppData\Local\Programs\AivisSpeech\AivisSpeech-Engine\run.exe`
 
-### AIVIS TTS Client (本アプリ)
+### Aivis TTS Client (本アプリ)
 
 リリースページの ZIP を展開し、`AivisTTSClient.exe` を実行するだけで利用できます。
 
