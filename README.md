@@ -42,7 +42,7 @@ FiveM などのゲームで **マイクが使えない／使いたくない** �
 ## 基本的な使い方
 
 1. **AivisSpeech Engine** を先に起動 (デフォルト: `localhost:10101`)。
-2. `AIVIS TTS Client` を起動。
+2. `Aivis TTS Client` を起動。
 3. モデル一覧が自動取得され、`Voice Model` プルダウンに話者 + スタイルが表示されます。
 4. テキスト欄に発話内容を入力し `Speak` ボタン、または **`Ctrl + Enter`** で即時読み上げ。
 5. `Always on Top` でゲーム画面の上に固定。
