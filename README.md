@@ -1,4 +1,4 @@
-# AIVIS TTS Client – セットアップ & 使い方ガイド
+# AIVIS TTS Client
 
 FiveM などのゲームで **マイクが使えない／使いたくない** 場面でも、音声合成 (TTS) でVCが使える Windows専用 アプリケーションです。
 
