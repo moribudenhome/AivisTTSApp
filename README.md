@@ -65,7 +65,7 @@ FiveM のボイスチャットへ TTS を流すには **VB‑CABLE** を仮想�
 
 | 手順 | 設定内容                                                                         |
 | -- | ---------------------------------------------------------------------------- |
-| 1  | **AIVIS TTS Client の再生デバイス** → CABLE Input (VB-Audio Virtual Cable) を選択      |
+| 1  | **Aivis TTS Client の再生デバイス** → CABLE Input (VB-Audio Virtual Cable) を選択      |
 | 2  | **FiveM > Settings > Voice Chat** → *Input Device* = `VB‑Audio Cable Output` |
 | 3  | テキスト入力 → `Ctrl + Enter` で FiveM VC に TTS 音声が流れることを確認                         |
 
